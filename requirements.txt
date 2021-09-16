@@ -1,0 +1,7 @@
+concurrent.futures
+sys
+pyfiglet
+argparse
+re
+requests
+urllib3
